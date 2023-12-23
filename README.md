@@ -6,28 +6,27 @@ Welcome to [CodeClass](https://codeclasse.netlify.app)
 
 # Objective
 
-Après avoir bien approfondit les possibilité du language C j'ai voulu offrir des cours aux gens pour accelerer leur apprentissage sur ce language.
-
+After having thoroughly explored the possibilities of the C language, I wanted to offer courses to people to accelerate their learning of this language.
 
 ![image](images/image1.png)
 
-A la finalitée de ce projet les cours et lecons auraient été gratuit, les sujets des projets aussi mais j'aurais vendu les corrections des projets. 
+At the end of this project the courses and lessons would have been free, the subjects of the projects too but I would have sold the corrections of the projects.
 
-Les principaux themes de projets:
+The main project themes:
 
 ![image](images/image2.png)
 
-La page de l'acces a son profil:
+The access page to his profile:
 
 ![image](images/image3.png)
 
-J'ai aussi eu a decouvrir le référencement naturel (ou SEO) pour que mon site apparesse dans les premieres possibilité lorsque quelqu'un veut apprendre le C.
+I also had to discover natural referencing (or SEO) so that my site appears in the first possibility when someone wants to learn C.
 
-Voici le résultat:
+Here is the result:
 
 ![image](images/image4.png)
 
-On peut voir que j'apparait déjà en deuxieme avec une recherche assez simple et sans avoir pousser le SEO bien loin. Tout cela gratuitement bien sûr car on peut aussi simplement payer google pour qu'il nous reference sans effort.
+You can see that I already appear in second with a fairly simple search and without having pushed the SEO very far. All this for free of course because we can also simply pay Google to reference us effortlessly.
 
 # Starting
 
