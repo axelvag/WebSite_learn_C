@@ -6,11 +6,19 @@ Welcome to [CodeClass](https://codeclasse.netlify.app)
 
 # Objective
 
-Après avoir bien approfondit les possibilité du language C
+Après avoir bien approfondit les possibilité du language C j'ai voulu offrir des cours aux gens pour accelerer leur apprentissage sur ce language.
 
 
 ![image](images/image1.png)
+
+A la finalitée de ce projet les cours et lecons auraient été gratuit, les sujets des projets aussi mais j'aurais vendu les corrections des projets. 
+
+Les principaux themes de projets:
+
 ![image](images/image2.png)
+
+La page de l'acces a son profil:
+
 ![image](images/image3.png)
 
 J'ai aussi eu a decouvrir le référencement naturel (ou SEO) pour que mon site apparesse dans les premieres possibilité lorsque quelqu'un veut apprendre le C.
